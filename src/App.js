@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
-import { exampleAction } from '../../actions/actions.js'
+import { exampleAction } from './actions/actions.js'
 
 import './App.css';
 
